@@ -1,0 +1,3 @@
+require("mintkai") 
+print("hello")
+
